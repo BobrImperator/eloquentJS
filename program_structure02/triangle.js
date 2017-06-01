@@ -1,0 +1,1 @@
+console.log("I'll become a triangle");
